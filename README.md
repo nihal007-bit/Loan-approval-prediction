@@ -1,6 +1,7 @@
 #  Loan Approval Prediction 
 
-<img width="473" height="692" alt="image" src="https://github.com/user-attachments/assets/987e543f-89fb-4ed3-9751-f544aba5c1e8" />
+<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/913c5c6f-84ac-46af-a34d-dfa3f994a40b" />
+
 
 
 An end-to-end Machine Learning application that predicts the credit risk of loan applicants using demographic and financial information. The project leverages the XGBoost algorithm for classification and provides an interactive web interface built with Streamlit for real-time predictions.
